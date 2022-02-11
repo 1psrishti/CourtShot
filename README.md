@@ -1,6 +1,9 @@
 # CourtShot
 
-App built while completing 'Android Basics: User Input' course available on Udacity.
-https://classroom.udacity.com/courses/ud836
+<br> 
+
+A simple app that keeps track of scores of two basketball teams.
+
+<br>
 
 ![name-of-you-image](https://github.com/1psrishti/CourtShot/blob/master/images/mainactivity.jpeg?raw=true)
